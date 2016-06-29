@@ -1,0 +1,32 @@
+{
+  "name": "uatc",
+  "version": "1.0.0",
+  "description": "Angular Local Login Form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iggiy333/uatc.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Login"
+  ],
+  "author": "igorcevina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iggiy333/uatc/issues"
+  },
+  "homepage": "https://github.com/iggiy333/uatc#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-watch": "^4.3.8"
+  }
+}

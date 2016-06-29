@@ -1,0 +1,25 @@
+#! /bin/bash
+
+# cd project_folder
+git clone git@github.com:whatever .
+ili
+git init
+git remote add origin PATH/TO/REPO
+git fetch
+git checkout -t origin/master
+
+npm init
+
+sudo npm install gulp
+touch gulpfile.js
+sudo npm install gulp-sass
+sudo npm install gulp-uglify
+sudo npm install gulp-concat
+sudo npm install gulp-watch
+sudo npm install gulp-livereload
+sudo npm install gulp-inject
+sudo npm install gulp-clean-css
+
+# set tasks
+
+
