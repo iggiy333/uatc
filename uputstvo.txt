@@ -22,4 +22,16 @@ sudo npm install gulp-clean-css
 
 # set tasks
 
+git push -u origin master
+# provide username: iggiy333 and pass: bg44
+
+git status
+git add .
+git commit -m "Commit message"
+
+# one line command
+
+git commit -a -m "Commit message"
+
+
 
